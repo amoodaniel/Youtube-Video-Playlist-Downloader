@@ -1,0 +1,14 @@
+<!DOCTYPE RCC>
+<RCC VERSION="1.0">
+	<qresource>
+		<file>icons/browseicon.png</file>
+		<file>icons/downloadicon.png</file>
+		<file>icons/downloadicon2.png</file>
+		<file>icons/homeicon.png</file>
+		<file>icons/settingsicon.png</file>
+		<file>icons/youtubeicon.png</file>
+		<file>icons/homesettings.png</file>
+		<file>icons/homeplay.png</file>
+		<file>icons/homedownload.png</file>
+	</qresource>
+</RCC>
